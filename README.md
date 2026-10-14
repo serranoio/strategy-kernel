@@ -18,4 +18,10 @@ Ask your agent to use the Strategy Kernel skill to work through a situation or d
 
 > Use strategy-kernel to help me decide what to build next and form a coherent action plan.
 
+### Diagnosis only
+
+For a diagnosis-only assessment, explicitly ask for **“diagnosis only”** or a **“one-shot assessment.”** The skill stops after diagnosis instead of proceeding to guiding policy and coherent actions.
+
+> Use strategy-kernel in diagnosis-only mode to assess why onboarding conversion is low.
+
 See [SKILL.md](strategy-kernel/SKILL.md) for the full workflow and [references/](strategy-kernel/references/) for its supporting instructions.
