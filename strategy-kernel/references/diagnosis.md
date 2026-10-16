@@ -6,21 +6,13 @@ Use diagnosis to establish the factual basis for the strategy kernel before prop
 
 Use only applicable sections and omit empty sections.
 
-### Goal
+### Problem
 
-State the user's objective. Include the request, target outcome, and any explicit deadline. Avoid judging or rewriting the goal.
-
-### Root Cause
-
-Explain why the goal matters. Include the underlying issue, pain, risk, gap, or opportunity. Avoid jumping to implementation.
+State the central problem or challenge. Explain what is happening, its causes, and its impact, including relevant pain, risk, gap, or opportunity. Keep the description problem-oriented; do not restate the user's goal or propose a solution.
 
 ### Context
 
 List known facts that shape the situation. Include current state, constraints, architecture constraints, dependencies, stakeholders, ownership, systems, data, timelines, and existing behavior. Avoid irrelevant background or speculation.
-
-### Success Criteria
-
-Define observable conditions for success. Include acceptance criteria, required outcomes, measurable behavior, and must-satisfy constraints. Avoid vague or unnecessary implementation details.
 
 ### Out of Scope
 

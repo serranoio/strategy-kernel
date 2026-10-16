@@ -2,7 +2,7 @@
 
 Use architecture when the user requests architecture, or when coherent actions require creating or materially changing architecture.
 
-Before defining architecture, follow `grill-rule.md`.
+Before defining architecture, use `grill-me` and follow the `Grill Rule` in `SKILL.md`.
 
 ## Resolve
 
