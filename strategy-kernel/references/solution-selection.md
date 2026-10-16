@@ -10,14 +10,30 @@ Use this stage after the problem is understood and before writing Coherent Actio
 4. Recommend the approach best supported by the evidence and criteria. State its main tradeoff. If a material decision depends on a user-owned preference or unresolved fact, surface that decision instead of pretending the evidence selects a winner.
 5. Derive Coherent Actions only after an approach is selected or recommended.
 
-## Keep the Choice Consumable
+## Present the Comparison
 
-When the comparison should be visible, use a compact table:
+When Solution Selection is visible, show the alternatives separately. Do not replace the comparison with a checklist, table-only summary, or single sentence.
 
-| Approach | Fit to criteria | Main tradeoff |
-|---|---|---|
-| Candidate | Why it fits or fails | Cost, risk, or limitation |
+Use this structure:
 
-Follow the table with the recommendation and its key tradeoff. Do not use numeric scores unless the criteria and evidence support them. Do not list every conceivable option.
+### Option 1: [Approach]
+
+- **Approach:** What this option does.
+- **Pros:** What it does well against the decision criteria.
+- **Cons:** Its costs, risks, and limitations.
+
+### Option 2: [Approach]
+
+- **Approach:** What this option does.
+- **Pros:** What it does well against the decision criteria.
+- **Cons:** Its costs, risks, and limitations.
+
+Add another option only when it is materially different and credible. Keep the pros and cons specific to each option. Do not use numeric scores unless the criteria and evidence support them.
+
+End with a recommendation:
+
+### Recommendation
+
+Name the selected option, explain why it best fits the criteria, and state the tradeoff accepted. If the evidence does not select a winner because a user-owned preference or unresolved fact controls the choice, say what decision is needed instead of inventing certainty.
 
 If only one credible approach remains, skip the visible comparison and proceed to Coherent Actions after a brief internal check.

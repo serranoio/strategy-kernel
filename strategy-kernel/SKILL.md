@@ -90,7 +90,7 @@ Read only the files needed for the user's request:
 - Use only applicable sections.
 - Omit empty sections.
 - Consolidate repeated points while preserving the distinction between Diagnosis, Guiding Policy, Solution Selection, and Coherent Actions.
-- Include Solution Selection only when comparing materially different approaches; keep option comparisons brief and decision-focused.
+- When Solution Selection is included, show each credible approach as a separate option with its own pros and cons, then end with a recommendation. Do not substitute a summary sentence or checklist for the comparison.
 - Do not include the user's goal or a Success Criteria subsection in Diagnosis; include useful acceptance criteria with Coherent Actions.
 - Do not include Guiding Policy solely to complete the kernel sequence; include it only when it adds useful direction or a decision rule.
 - Prefer factual bullets.
